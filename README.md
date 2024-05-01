@@ -13,15 +13,14 @@
 
 ## Installation
 
-- To use this project, you need to have Python installed on your system. You can install the required Python packages using pip. Run the following command in your terminal or command prompt:
+- To use this project, you need to have Python installed on your system. You can install the required Python packages using pip. Run the following command in your terminal or command prompt: 
+- '''Bash 
+- pip install pandas matplotlib
 
-```bash
-pip install pandas matplotlib
-
-Once installed, you can import the necessary modules in your Python script as follows:
-import pandas as pd
-from pathlib import Path
-import matplotlib.pyplot as pl
+- Once installed, you can import the necessary modules in your Python script as follows:
+- import pandas as pd
+- from pathlib import Path
+- import matplotlib.pyplot as plt
 
 ## Usage
 
